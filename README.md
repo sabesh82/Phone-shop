@@ -1,10 +1,16 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📱 Phone Shop Project
+Overview
+The Phone Shop Project is a web-based front-end application designed showcase phone inventory, providing a streamlined platform for users to browse, search, and purchase mobile devices. Built with modern web technologies, it offers a user-friendly interface and essential features for a small-scale phone shop.
 
-Currently, two official plugins are available:
+Features
+🔍 Search and Filter: Quickly find phones based on model,color and price
+🛒 Add to Cart: Seamless shopping experience with an easy-to-use cart system.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# Phone-shop" 
-"# Phone-shop" 
+Install Dependencies
+npm install
+
+Run the Application
+npm run dev
+
+
